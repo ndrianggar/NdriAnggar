@@ -5,6 +5,13 @@
 
 Here are some ideas to get you started:
 
+### Hi there 👋
+![](https://komarev.com/ghpvc/?username=ndrianggar&color=green)
+
+
+![](https://github-readme-stats.vercel.app/api?username=ndrianggar&count_private=true&theme=default&show_icons=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ndrianggar&langs_count=3)
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
