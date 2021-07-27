@@ -11,8 +11,7 @@ I am a learner as well as a teacher, interested in using technology to help peop
 ![](https://komarev.com/ghpvc/?username=ndrianggar&color=green)
 
 
-![](https://github-readme-stats.vercel.app/api?username=ndrianggar&count_private=true&theme=default&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ndrianggar&langs_count=6)
+![](https://github-readme-stats.vercel.app/api?username=ndrianggar&count_private=true&theme=tokyonight&show_icons=true&include_all_commits=true)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ndrianggar&layout=compact&theme=tokyonight&hide=TSQL,HACK,HTML)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
